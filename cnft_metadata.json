@@ -1,0 +1,21 @@
+{
+    "name": "SFP cNFT",
+    "symbol": "SFP",
+    "seller_fee_basis_points": 0,
+    "image": "https://serfrae.github.io/logo.jpeg",
+    "external_uri": "https://serfrae.github.io/",
+    "attributes": [],
+    "collection": {
+        "name": "Ser Frae's SFP cNFT Collection",
+        "family": "Ser Frae's cNFTs",
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://serfrae.github.io/logo.jpeg",
+                "type": "image/jpeg",
+            }
+        ],
+        "category": "image"
+    }
+}
